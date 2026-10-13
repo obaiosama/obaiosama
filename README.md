@@ -114,7 +114,7 @@ Notion finance system linking accounts, transactions, expenses and subscriptions
 
 ## Background
 
-- **BSc Data Science**, Albukhary International University, Malaysia (2025 to 2028, in progress)
+- **BSc Data Science** (2025 to 2028, in progress)
 - **IBM Data Analyst** Professional Certificate
 - **Samsung Innovation Campus:** AI scholarship and Coding & Programming
 - **Languages:** English (IELTS 7.5), Arabic (native)
