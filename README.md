@@ -8,7 +8,7 @@ I build agents, LLM workflows and integrations that take work off a business's p
 
 [![Ubakel](https://img.shields.io/badge/Ubakel-Co--founder-0f172a?style=for-the-badge)](https://ubakel.com)
 [![Email](https://img.shields.io/badge/Email-obai.2452002%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obai.2452002@gmail.com)
-![Open to](https://img.shields.io/badge/Open_to-Remote_%C2%B7_Relocation-16a34a?style=for-the-badge)
+![Open to](https://img.shields.io/badge/Open_to-Full--time_%C2%B7_Remote_%C2%B7_Relocation-16a34a?style=for-the-badge)
 
 </div>
 
