@@ -12,9 +12,9 @@ Since 2023 I have delivered API, Python and workflow integrations for internatio
 |---|---|---|
 | [Inbound Revenue Capture Agent](https://github.com/obaiosama/inbound-revenue-capture-agent) | An orchestrator with 12 operators that captures, enriches, scores, routes and escalates inbound sales leads, with consent checks and a human in the loop | Supervity Auto, Supabase, HubSpot, Slack, Outlook, Python |
 | [WhatsApp Clinic Booking Assistant](https://github.com/obaiosama/whatsapp-clinic-booking-assistant) | Multilingual AI receptionist that turns a WhatsApp conversation into a database-backed appointment | n8n, LangChain, DeepSeek, PostgreSQL, Meta WhatsApp Business API |
+| [Solar Report Automation](https://github.com/obaiosama/solar-report-automation) | Utility-bill PDFs in, finished solar performance report out, with AI extraction and human-review flags | Webhooks, Gemini, Google Drive and Sheets, Gmail |
 | [AP Invoice Automation Engine](https://github.com/obaiosama/ap-invoice-automation-engine) | Invoice-to-ledger pipeline with OCR extraction and configurable approval flows | n8n, Gemini, PostgreSQL, Airtable, Xero API |
-
-Each repo says plainly what is built, what was tested, and what is not a production deployment.
+| [Finance OS](https://github.com/obaiosama/finance-os-notion) | Notion finance system with a statement-intake automation that validates files and catches duplicates | Notion, Make.com |
 
 ## Skills
 
